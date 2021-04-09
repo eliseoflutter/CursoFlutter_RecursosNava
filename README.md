@@ -5,6 +5,7 @@
 * [Lo revolucionario de Flutter](https://medium.com/comunidad-flutter/lo-revolucionario-de-flutter-425d4e43de8d)
 * [Flutter 2.0](https://medium.com/comunidad-flutter/lleg%C3%B3-flutter-2-0-69927d93a34a)
 * [DartPad](https://dartpad.dev/)
+* [Proyecto final en PlayStore](https://play.google.com/store/apps/details?id=com.melissacasas.chat_app)
 
 ## Sección 2: Configurando el entorno de trabajo
 
